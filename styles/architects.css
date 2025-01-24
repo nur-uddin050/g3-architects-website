@@ -228,6 +228,16 @@ footer{
         margin-top: 20px;
         margin-left: 20px;
     }
+    footer{
+        width: 90vw;
+        padding: 5px 10px;
+        margin: 0;
+    }
+    main{
+        /* width: 300px; */
+        
+    }
+    
 }
 
 /* medium size device */
