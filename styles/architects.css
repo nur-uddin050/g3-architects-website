@@ -186,6 +186,18 @@ main > section{
     filter: grayscale(100%);
 }
 
+/* footer section */
+footer{
+    max-width: 540px;
+    margin: 130px auto;
+    text-align: center;
+    background-color: #FFF4E7;
+    padding: 20px 400px;
+    border-radius: 8px;
+    font-weight: 400;
+    font-size: 20px;
+}
+
 /* responsive media query */
 @media screen and (max-width: 576px) {
     .navbar, 
